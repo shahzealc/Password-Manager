@@ -1,0 +1,36 @@
+Provide diffrent pages for Websites/Apps and cards password.
+
+Add a password Generator 
+
+can update passwords 
+
+can Delete the password
+
+can search
+
+for Websites/Apps
+    Title : Displayed Outside With Big font In Card type layout 
+    Username : Displayed Outside With small font in same layout
+    Password : Clicking the card layout will display a popup rectangular box which Contain all three
+    Website Address/App Name , Note : Will also displayed when popup opens
+
+    forms:
+        Title , Username , Password , Website Address , Note - if any
+
+for Cards :
+    Bank Name : Displayed Outside With Big font In Card type layout
+    Card Type : Displayed Outside With small font in same layout
+    Card Number : Clicking the card layout will display a popup rectangular box which Contain all five 
+    CVV : Clicking the card layout will display a popup rectangular box which Contain all five 
+    ATM PIN : Clicking the card layout will display a popup rectangular box which Contain all five 
+
+    forms:
+        Bank name , card Type , Card Number , CVV , ATM PIN , Note - if any 
+
+Inside the popup there must be a delete and update button.
+    
+
+
+
+
+Admin Password : zeal : zeal532003
